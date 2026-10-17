@@ -1,0 +1,11 @@
+{
+  "name": "cooking-master-restaurant-adventure",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A dependency-free browser cooking game",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "node --test game.test.js"
+  }
+}
